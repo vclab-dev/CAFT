@@ -2,4 +2,6 @@
 --- 
 Accepted at [TradiCV Workshop, ICCV 21](https://sites.google.com/view/tradicv)
 
-We will release the code very soon.
+Update on running the code and dependencies will be updated soon.
+
+
